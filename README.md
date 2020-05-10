@@ -1,7 +1,10 @@
-# Express Starter Project
+Backend for: Message board - Frontend Test for Storytel
 
-This project includes the packages and babel setup for an express server, and is just meant to make things a little simpler to get up and running with.
+Frontend rep: https://github.com/jensnilsen/storytel-test
+Deployed site: https://storytel-test.netlify.app/
+Deployed backend: https://storytel-test.herokuapp.com/
 
 ## Getting started
 
-Install dependencies with `npm install`, then start the server by running `npm run dev`
+1. Install dependencies with `npm install`, then start the
+1. server by running `npm run dev`
